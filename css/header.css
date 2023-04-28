@@ -71,6 +71,7 @@ header {
   right: 0;
   border-radius: 3px;
   opacity: 0;
+  pointer-events: none;
 }
 .search-button:hover .tooltip {
   opacity: 0.7;
